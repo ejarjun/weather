@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(78, 151, 200);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+.container{
+    margin-top: 90px;
+}
+
+.first{
+    background-image: url("https://jesspublib.org/wp-content/uploads/Copy20of20Calendar20Image20for20Evanced20289129-ltQTd7.tmp_.jpg");
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.second{
+    background-color: rgba(14, 75, 14, 0.697);
+}
+
+.updates{
+    margin-top: 300px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(207, 201, 201, 0.216);
+    
+}
