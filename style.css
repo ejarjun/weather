@@ -25,5 +25,16 @@ body{
     margin-top: 300px;
     color: rgb(0, 0, 0);
     background-color: rgba(207, 201, 201, 0.216);
-    
+}
+input{
+    border-radius: 5px;
+    padding-left: 5px;
+    height: 35PX;
+}
+button{
+    border-radius: 5px;
+    height: 35px;
+    width: 80px;
+    background-color: rgb(127, 192, 29);
+    color: aliceblue;
 }
